@@ -15,6 +15,7 @@ int main (void){
 	year++;
 	}
 	cout<<"總共花了"<<year<<"年折舊"<<endl;
+//花了多少錢
     system("pause");
     return 0;
 } 
